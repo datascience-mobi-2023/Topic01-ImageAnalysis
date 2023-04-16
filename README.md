@@ -1,6 +1,4 @@
 # Topic 01: Biomedical Image Analysis
-==================================
-
 
 
 Supervisor: 
