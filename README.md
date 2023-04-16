@@ -1,5 +1,4 @@
-Topic 01: Biomedical Image Analysis
-
+# Topic 01: Biomedical Image Analysis
 ==================================
 
 
