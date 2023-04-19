@@ -1,7 +1,7 @@
 # Topic 01: Biomedical Image Analysis
 
 
-**Supervisor: **
+**Supervisor**
 
 * PD Dr. Karl Rohr     (k.rohr@uni-heidelberg.de)
 * Dr. Leonid Kostrykin (leonid.kostrykin@bioquant.uni-heidelberg.de)
