@@ -1,18 +1,22 @@
 # Topic 01: Biomedical Image Analysis
+<<<<<<< Updated upstream
 
 
 Supervisor: 
+=======
+==================================
+
+**Supervisor: **
+>>>>>>> Stashed changes
 
 * PD Dr. Karl Rohr     (k.rohr@uni-heidelberg.de)
 * Dr. Leonid Kostrykin (leonid.kostrykin@bioquant.uni-heidelberg.de)
 * Kerem Celikay        (kerem.celikay@bioquant.uni-heidelberg.de)
 * Janis Meyer          (janis.meyer@bioquant.uni-heidelberg.de)
 
-
+* Hannah Winter (Tutor)
 
 ## Introduction
-
-
 
 Image analysis methods are important to extract relevant information from biomedical image data.
 Typically, a large amount of data needs to be analyzed to draw statistically significant conclusions.
@@ -20,8 +24,6 @@ Manual analysis of the image data is tedious, time-consuming, and subjective.
 Thus, computer-based image analysis is needed, which enables fast, reproducible, and accurate automated analysis of the data.
 
 To extract information from the image data, methods for different image analysis tasks are required. Typical tasks are image preprocessing, feature extraction, segmentation, object recognition, tracking, and image registration. The projects within the topic "Biomedical Image Analysis" comprise different image analysis tasks using different methods and image modalities. The image analysis methods will be implemented in Python using existing libraries (e.g., NumPy, Scikit-learn). 
-
-
 
 ## Objectives
 
