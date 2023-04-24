@@ -20,13 +20,14 @@ To extract information from the image data, methods for different image analysis
 
 ## Objective
 
-### Human Face and Digit Recognition
+### Human Face, Digit, and Clothes Recognition
 
 The objective of projects 1 and 2 is to implement and evaluate classification methods for human face and handwritten digit recognition using K-nearest neighbors. First, statistical measures for performing data normalization should be computed. Second, data dimension reduction should be performed by principal component analysis (PCA) and the results should be visualized. Third, the dataset should be split into training and test datasets in order to perform human face or handwritten digit recognition.
 
 * Project 1: Implementation and evaluation of K-nearest neighbors (KNN) algorithm for human face recognition.
 * Project 2: Implementation and evaluation of K-nearest neighbors (KNN) algorithm for handwritten digit recognition.
-* Project 4: Implementation and evaluation of K-nearest neighbors (KNN) algorithm for clothes recognition. 
+* Project 4: Implementation and evaluation of K-nearest neighbors (KNN) algorithm for clothes recognition. 
+
 
 ### Cell Nuclei Segmentation
 
