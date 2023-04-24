@@ -26,13 +26,13 @@ The objective of projects 1 and 2 is to implement and evaluate classification me
 
 * Project 1: Implementation and evaluation of K-nearest neighbors (KNN) algorithm for human face recognition.
 * Project 2: Implementation and evaluation of K-nearest neighbors (KNN) algorithm for handwritten digit recognition.
-* Project 3: Implementation and evaluation of K-nearest neighbors (KNN) algorithm for clothes recognition. 
+* Project 4: Implementation and evaluation of K-nearest neighbors (KNN) algorithm for clothes recognition. 
 
 ### Cell Nuclei Segmentation
 
 The objective of projects 3 and 4 is to implement and evaluate methods for segmentation of cell nuclei (Otsu thresholding or clustering method). First, the image segmentation method should be implemented. Second, a popular evaluation measure known as "Dice score" should be implemented and tested using synthetically generated images. The methods should be applied to cell nuclei images and the average Dice score should be computed. For Otsu thresholding, the implemented segmentation method should be extended by local thresholding using a sliding window scheme. For the clustering method, the colored images should be converted to different color models and the segmentation results should be compared to the RGB color representation model.
 
-* Project 4: Implementation and evaluation of Otsu thresholding.
+* Project 3: Implementation and evaluation of Otsu thresholding.
 
 ## Description of datasets
 
