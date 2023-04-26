@@ -61,8 +61,8 @@ The image data for cell nuclei segmentation with Otsu thresholding consists of t
 ### Cell Nuclei Segmentation
 
 * Otsu, N. "A threshold selection method from gray-level histograms." IEEE Transactions on Systems, Man, and Cybernetics 9:1 (1979), pp 62-66.
-* Ljosa, V., Sokolnicki, K.L. and Carpenter, A.E. "Annotated high-throughput microscopy image sets for validation." Nature Methods 9:7 (2012), pp 637-637.
 * MacKay, D. "An Example Inference Task: Clustering." Information Theory, Inference and Learning Algorithms (2003), Chapter 20
+* Coelho, L.P., Shariff, A., and Murphy, R.F. "Nuclear segmentation in microscope cell images: a hand-segmented dataset and comparison of algorithms." IEEE Proceedings of the International Symposium on Biomedical Imaging, pp. 518-521 (2009).
 
 ## How to structure your project
 
